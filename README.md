@@ -1,6 +1,6 @@
-# Twitter Bootstrap for CakePHP applications (CakeStrap v 0.1 and Bootstrap helpder combined)
+# Twitter Bootstrap for CakePHP applications (CakeStrap v 0.1 and Bootstrap helper combined)
 
-More info here: http://seventhcodes.com/uncategorized/twitter-bootstrap/
+More info here: http://seventhcodes.com/cakephp/twitter-bootstrap/
 
 ---
 CakeStrap is a simple HTML5 Ready Bootstrap for CakePHP Applications.
